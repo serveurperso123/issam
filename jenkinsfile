@@ -1,18 +1,18 @@
 stage ("Clone du code"){
-    bat ""
+    
 }
 
 stage("Build du code"){
-    bat ''
+    
 }
 stage('Run du code '){
-    bat ""
+    
 }
 
 stage('Push du code sur la baranche Dev'){
-    bat ""
     
-    bat ""
+    
+    
 }
 stage('clean du work space'){
     cleanWs()
