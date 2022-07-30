@@ -1,5 +1,5 @@
 stage ("Clone du code"){
-    git"https://github.com/serveurperso123/issam.git"
+    bat ""
 }
 
 stage("Build du code"){
