@@ -1,0 +1,15 @@
+D:\GENIUS\csharp\monCompteur\bin\Release\net6.0\monCompteur.exe
+D:\GENIUS\csharp\monCompteur\bin\Release\net6.0\monCompteur.deps.json
+D:\GENIUS\csharp\monCompteur\bin\Release\net6.0\monCompteur.runtimeconfig.json
+D:\GENIUS\csharp\monCompteur\bin\Release\net6.0\monCompteur.dll
+D:\GENIUS\csharp\monCompteur\bin\Release\net6.0\monCompteur.pdb
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.csproj.AssemblyReference.cache
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.GeneratedMSBuildEditorConfig.editorconfig
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.AssemblyInfoInputs.cache
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.AssemblyInfo.cs
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.csproj.CoreCompileInputs.cache
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.dll
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\refint\monCompteur.dll
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.pdb
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\monCompteur.genruntimeconfig.cache
+D:\GENIUS\csharp\monCompteur\obj\Release\net6.0\ref\monCompteur.dll

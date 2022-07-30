@@ -1,0 +1,22 @@
+stage ("Clone du code"){
+    sh 'git clone '
+}
+
+stage("Build du code"){
+    sh ''
+}
+stage('Run du code '){
+    sh ''
+}
+
+stage('Push du code sur la baranche Dev'){
+    sh 'git checkout dev'
+    
+    sh 'git push origin dev'
+}
+stage('clean du work space'){
+    cleanWs()
+}
+stage('Fin'){
+    
+}
