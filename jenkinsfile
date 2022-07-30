@@ -15,7 +15,7 @@ stage('Push du code sur la baranche Dev'){
     
 }
 stage('clean du work space'){
-    cleanWs()
+    
 }
 stage('Fin'){
     
