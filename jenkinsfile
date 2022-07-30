@@ -1,18 +1,18 @@
 stage ("Clone du code"){
-    sh 'git clone '
+    bat 'git clone https://github.com/serveurperso123/issam.git'
 }
 
 stage("Build du code"){
-    sh ''
+    bat ''
 }
 stage('Run du code '){
-    sh ''
+    bat ''
 }
 
 stage('Push du code sur la baranche Dev'){
-    sh 'git checkout dev'
+    bat ''
     
-    sh 'git push origin dev'
+    bat ''
 }
 stage('clean du work space'){
     cleanWs()

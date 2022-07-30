@@ -8,20 +8,28 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rayekov\\.nuget\\packages\\": {}
+    "C:\\Users\\eojmv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GENIUS\\csharp\\monCompteur\\monCompteur.csproj",
+      "projectUniqueName": "C:\\Users\\eojmv\\ripo\\issam\\monCompteur.csproj",
       "projectName": "monCompteur",
-      "projectPath": "D:\\GENIUS\\csharp\\monCompteur\\monCompteur.csproj",
-      "packagesPath": "C:\\Users\\rayekov\\.nuget\\packages\\",
-      "outputPath": "D:\\GENIUS\\csharp\\monCompteur\\obj\\",
+      "projectPath": "C:\\Users\\eojmv\\ripo\\issam\\monCompteur.csproj",
+      "packagesPath": "C:\\Users\\eojmv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eojmv\\ripo\\issam\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rayekov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\eojmv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
